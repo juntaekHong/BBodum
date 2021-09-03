@@ -19,7 +19,7 @@
     "buffer": "^5.4.3",
     "events": "^3.1.0",
     "iamport-react-native": "^1.4.4",
-    "immer": "^5.3.6",
+    "immer": "^9.0.6",
     "mem": "^6.0.1",
     "moment": "^2.24.0",
     "react": "16.9.0",
